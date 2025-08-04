@@ -1,0 +1,8 @@
+Please enter a number from 1 to 3, each number triggers different function:
+my_strcmp: type 1
+my_strncmp: type 2
+my_strchr: type 3
+Please type the parameters you want to use with strchr(string and char):
+Function called: my_strchr
+Parameters are: hello, l
+The answer is: 2
